@@ -33,10 +33,11 @@ v.0.8.0 - first release of BinBOT with GUI
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### FREE Download
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dachu02/BinBOTdocs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+BinBOT.app domain is the only one official source of aplication. You can download it by clicking below button
+[repository settings](https://github.com/dachu02/BinBOTdocs/download).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with BinBOT?  Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact us](https://support.github.com/contact) and we’ll help you sort it out.
