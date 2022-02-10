@@ -1,4 +1,4 @@
-## Welcome to BinBOT  - Binance trading BOT app
+## Welcome to BinBOT  - FREE Binance trading BOT app
 
 Welcome to the official BinBOT site! Here you can find all information about new releases, take one copy for you and get some knowledge about how to use the bot.
 
@@ -10,26 +10,25 @@ Whenever you commit to this repository, GitHub Pages will run [Download](/downlo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q7p3HzKS4Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Markdown
+### Version history
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here you can check current version of BinBOT ale previous change history:
 
 ```markdown
-Syntax highlighted code block
+Changelog:
+v. 0.8.1
++ added About
++ added log viever
++ improved loading time
 
-# Header 1
-## Header 2
-### Header 3
+v.0.8.0 - first release of BinBOT with GUI
++ GUI
++ BUY logic
++ SELL logic by TP and SL
++ Strategies (EMA, SMA, SMMA, MACD, Stoch, Williams%R, RSI)
++ Settings
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
