@@ -36,7 +36,10 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### FREE Download
 
 BinBOT.app domain is the only one official source of aplication. You can download it by clicking below button
-[repository settings](https://github.com/dachu02/BinBOTdocs/download).
+[Download](/download.md)
+
+### How to
+Before you start using app, please read [documentation](https://github.com/dachu02/BinBOTdocs/download)
 
 ### Support or Contact
 
