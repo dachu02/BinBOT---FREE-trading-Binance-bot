@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BinBOT  - Binance trading BOT app
 
 You can use the [editor on GitHub](https://github.com/dachu02/BinBOTdocs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
