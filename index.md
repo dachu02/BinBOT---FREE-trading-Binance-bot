@@ -3,10 +3,12 @@
     <span id="logo"><span class="octicon octicon-mark-github"></span></span>
 
     <a href="https://yt.com" class="button fork"><strong>Watch on YT</strong></a>
+    <a href="https://yt.com" class="button fork"><strong>Gallery</strong></a>
+    <a href="https://yt.com" class="button fork"><strong>How To</strong></a>
     <div class="downloads">
-      <span>Downloads:</span>
+      <span>Download:</span>
       <ul>
-        <li><a href="https://binbot.app/download" class="button">ZIP</a></li>>
+        <li><a href="https://binbot.app/download" class="button">ZIP</a></li>
       </ul>
     </div>
   </div>
