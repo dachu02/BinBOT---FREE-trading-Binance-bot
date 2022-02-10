@@ -7,7 +7,7 @@ BinBOT is free to use, you can trade crypto on Binance exchange for free, and if
 Whenever you commit to this repository, GitHub Pages will run [Download](/download.md) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q7p3HzKS4Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJXA1d20V4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Version history
