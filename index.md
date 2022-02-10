@@ -43,4 +43,4 @@ Before you start using app, please read [documentation](https://github.com/dachu
 
 ### Support or Contact
 
-Having trouble with BinBOT?  Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact us](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with BinBOT?  Check out our [documentation](/documentation.md) or [contact us](https://support.github.com/contact) and we’ll help you sort it out.
