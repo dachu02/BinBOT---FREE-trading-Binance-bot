@@ -1,19 +1,3 @@
-<div id="banner">
-  <div class="banner-inner">
-    <span id="logo"><span class="octicon octicon-mark-github"></span></span>
-
-    <a href="https://github.com/mattgraham/leapday" class="button fork"><strong>Fork On GitHub</strong></a>
-    <div class="downloads">
-      <span>Downloads:</span>
-      <ul>
-        <li><a href="https://github.com/mattgraham/leapday/zipball/master" class="button">ZIP</a></li>
-        <li><a href="https://github.com/mattgraham/leapday/tarball/master" class="button">TAR</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-
 ## Welcome to BinBOT  - FREE Binance trading BOT app
 
 Welcome to the official BinBOT site! Here you can find all information about new releases, take one copy for you and get some knowledge about how to use the bot.
@@ -53,6 +37,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 BinBOT.app domain is the only one official source of aplication. You can download it by clicking below button
 [Download](/download.md)
+
+### Gallery
 
 ### How to
 Before you start using app, please read [documentation](https://github.com/dachu02/BinBOTdocs/download)
