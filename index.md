@@ -3,8 +3,6 @@
     <span id="logo"><span class="octicon octicon-mark-github"></span></span>
 
     <a href="https://yt.com" class="button fork"><strong>Watch on YT</strong></a>
-    <a href="https://yt.com" class="button fork"><strong>Gallery</strong></a>
-    <a href="https://yt.com" class="button fork"><strong>How To</strong></a>
     <div class="downloads">
       <span>Download:</span>
       <ul>
