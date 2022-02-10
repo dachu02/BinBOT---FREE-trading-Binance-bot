@@ -1,10 +1,14 @@
 ## Welcome to BinBOT  - Binance trading BOT app
 
-Welcome to the official BinBOT site! Here you can find all information about new releases, take one copy for you and get some knowledge how to use the bot.
+Welcome to the official BinBOT site! Here you can find all information about new releases, take one copy for you and get some knowledge about how to use the bot.
 
 BinBOT is free to use, you can trade crypto on Binance exchange for free, and if you appreciate by job, you can donate and unlock some extra features!
 
 Whenever you commit to this repository, GitHub Pages will run [Download](/download.md) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7p3HzKS4Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Markdown
 
