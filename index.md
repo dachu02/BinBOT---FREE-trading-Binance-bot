@@ -1,3 +1,18 @@
+<div id="banner">
+  <div class="banner-inner">
+    <span id="logo"><span class="octicon octicon-mark-github"></span></span>
+
+    <a href="https://yt.com" class="button fork"><strong>Watch on YT</strong></a>
+    <div class="downloads">
+      <span>Downloads:</span>
+      <ul>
+        <li><a href="https://binbot.app/download" class="button">ZIP</a></li>>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 ## Welcome to BinBOT  - FREE Binance trading BOT app
 
 Welcome to the official BinBOT site! Here you can find all information about new releases, take one copy for you and get some knowledge about how to use the bot.
