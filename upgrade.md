@@ -1,3 +1,3 @@
 ---
-layout:upgrade
+layout: upgrade
 ---
