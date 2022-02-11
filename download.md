@@ -1,1 +1,148 @@
-AAAA
+{% include header.html %}
+  {% include banner.html %}
+
+  <div class="wrapper">
+    {% include page-nav.html %}
+
+  <section>
+    <h2>Welcome to BinBOT</h2>
+	  <p><code>FREE Binance trading BOT app</code></>
+    <p>Welcome to the official BinBOT site! Here you can find all information about new releases, take one copy for you and get some knowledge about how to use the bot.</p>
+	<p>
+	BinBOT is free to use, you can trade crypto on Binance exchange for free, and if you appreciate by job, you can donate and unlock some extra features like</p>
+	<ul>
+	<li>Trailing Stop Loss</li>
+	<li>Dollar Cost Averaging</li>
+	<li>Telegram notification</li>
+	<li>Trade history export</li>
+	<li>and many more</li>
+	</ul>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/zJXA1d20V4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+
+
+  	  <h2>FREE Download</h2>
+
+   		<p>www.BinBOT.app domain is the only one official source of aplication. You can download it by clicking button below</p>
+	  <p><a href="/download.html"><img src="/assets/images/download.png" /></a></p>
+
+	  </br>
+	<h2>Changes history</h2>	  
+	  
+<p><div class="highlight"><pre>
+<span class="k">v. 0.8.1</span>
+<span class="s1">+ added About
++ added log viever
++ improved loading time</span>
+
+<span class="k">v.0.8.0 - first release of BinBOT with GUI</span>
+<span class="s1">+ GUI
++ BUY logic
++ SELL logic by TP and SL
++ Indicators (EMA, SMA, SMA Cross, SMMA, SMMA Cross, MACD, Stoch, 
+  Williams%R, RSI, Parabolic SAR)
++ Settings</span>
+</pre></div>
+</p>
+
+
+
+    <h2>How to</h2>
+
+<p>Dont know how to use the app? Check our <a href="/how-to.html">How To</a> section and start using the app.</p>
+<p>You can also visit our <a href="">Youtube channel</a> ald watch tutorials in English and Polish Language</p>
+
+   
+
+
+<!--<div class="highlight">
+<pre><span class="nb">require</span> <span class="s1">'adapter/memory'</span>
+<span class="nb">require</span> <span class="s1">'toystore'</span>
+
+<span class="k">class</span> <span class="nc">User</span>
+<span class="kp">include</span> <span class="no">Toy</span><span class="o">::</span><span class="no">Store</span>
+<span class="n">adapter</span> <span class="ss">:memory</span><span class="p">,</span> <span class="p">{}</span>
+
+<span class="n">attribute</span> <span class="ss">:name</span><span class="p">,</span> <span class="nb">String</span>
+<span class="k">end</span>
+</pre>
+    </div>
+
+    <p>So, this is what HTML Code looks like</p>
+
+    <div class="highlight">
+<pre><span class="nt">&lt;html&gt;</span>
+<span class="nt">&lt;body&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"header"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;nav&gt;</span>
+       <span class="nt">&lt;li&gt;</span>Home<span class="nt">&lt;/li&gt;</span>
+       <span class="nt">&lt;li&gt;</span>About Us<span class="nt">&lt;/li&gt;</span>
+       <span class="nt">&lt;li&gt;</span>Contact<span class="nt">&lt;/li&gt;</span>
+      <span class="nt">&lt;/nav&gt;</span>
+    <span class="nt">&lt;/div&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span>
+</pre>
+    </div>
+
+    <p>And, then maybe some CSS</p>
+
+    <div class="highlight">
+<pre>
+<span class="nt">body</span> <span class="p">{</span>
+<span class="k">font</span><span class="o">:</span><span class=
+"m">14px</span><span class="o">/</span><span class="m">22px</span> <span class=
+"s1">'Quattrocento Sans'</span><span class="o">,</span> <span class=
+"s2">"Helvetica Neue"</span><span class="o">,</span> <span class=
+"n">Helvetica</span><span class="o">,</span> <span class=
+"n">Arial</span><span class="o">,</span> <span class=
+"k">sans-serif</span><span class="p">;</span>
+<span class="k">color</span><span class="o">:</span><span class=
+"m">#666</span><span class="p">;</span>
+<span class="k">font-weight</span><span class=
+"o">:</span><span class="m">300</span><span class="p">;</span>
+<span class="k">margin</span><span class="o">:</span> <span class=
+"m">0px</span><span class="p">;</span>
+<span class="k">padding</span><span class="o">:</span><span class=
+"m">0px</span> <span class="m">0</span> <span class=
+"m">20px</span> <span class="m">0px</span><span class="p">;</span>
+<span class="k">background</span><span class=
+"o">:</span> <span class="sx">url(../images/body-background.png)</span> <span class="m">#eae6d1</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="nt">h1</span><span class="o">,</span> <span class=
+"nt">h2</span><span class="o">,</span> <span class="nt">h3</span><span class=
+"o">,</span> <span class="nt">h4</span><span class="o">,</span> <span class=
+"nt">h5</span><span class="o">,</span> <span class="nt">h6</span> <span class=
+"p">{</span>
+<span class="k">color</span><span class="o">:</span><span class=
+"m">#333</span><span class="p">;</span>
+<span class="k">margin</span><span class="o">:</span><span class=
+"m">0</span> <span class="m">0</span> <span class="m">10px</span><span class=
+"p">;</span>
+<span class="p">}</span>
+
+<span class="nt">p</span><span class="o">,</span> <span class=
+"nt">ul</span><span class="o">,</span> <span class="nt">ol</span><span class=
+"o">,</span> <span class="nt">table</span><span class="o">,</span> <span class=
+"nt">pre</span><span class="o">,</span> <span class="nt">dl</span> <span class=
+"p">{</span>
+<span class="k">margin</span><span class="o">:</span><span class=
+"m">0</span> <span class="m">0</span> <span class="m">20px</span><span class=
+"p">;</span>
+<span class="p">}</span>
+</pre>
+    </div>--!>
+
+    <p>Inline code would look a little different. <code>We want you to see</code> where it is, but its going to be a little less noticeable. It might also be as simple as <code>:hover</code> and as unique as <code>:first-child</code>. It is up to you. </p>
+
+
+
+
+    </section>
+
+	{{ content }}
+
+
+	  
+{% include footer.html %}
