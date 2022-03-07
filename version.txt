@@ -1,1 +1,1 @@
-{"version":"v.0.8.8","getUrl":"https://www.binbot.app/download.html"}
+{"version":"v.0.8.9","getUrl":"https://www.binbot.app/download.html"}
