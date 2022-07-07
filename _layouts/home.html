@@ -11,6 +11,7 @@
 	<p>
 	BinBOT is free to use, you can trade crypto on Binance exchange for free, and <br/><code>if you appreciate my job, you can donate and unlock some extra features like</code></p>
 	<ul>
+	<li>Sell by strategy</li>
 	<li>Trailing Stop Loss</li>
 	<li>Dollar Cost Averaging</li>
 	<li>Telegram notification</li>
@@ -32,9 +33,21 @@
 	  <p><a href="/download.html"><img src="/assets/images/download.png" /></a></p>
 
 	  </br>
-	<h2>Changes history</h2>	  
-	  
+	<h2>Changes history</h2>
+
 <p><div class="highlight"><pre>
+<span class="k">v.0.9.3.0</span>
+<span class="s1">+ added Selling by strategy
++ if no BNB to cover fee, fee amount will be subtracted from purchased amount of coin
++ added miltiDCA functions (modification for customer)
++ added uncommon buy/sell indicator (modification for customer)
++ added possibility to disable strategy check before DCA
++ removed limitation of max allowed USD per order
++ changes in License info, add Binance referral
++ fix for deleting orders from DB
+- removed Panic sell option</span>
+	  
+<div class="highlight"><pre>
 <span class="k">v.0.9.0.0</span>
 <span class="s1">+ added historical data collection feature for backtesting purposes
 + fix for deleting orders from DB</span>
