@@ -1,0 +1,22 @@
+Code 0
+Program successfully completed.
+
+Code 1
+Incorrect function.
+Indicates that Action has attempted to execute non-recognized command in Windows command prompt cmd.exe.
+
+Code 2
+The system cannot find the file specified.
+Indicates that the file can not be found in specified location.
+
+Code 3
+The system cannot find the path specified.
+Indicates that the specified path can not be found.
+
+Code 5
+Access is denied.
+Indicates that user has no access right to specified resource.
+
+Code 9009
+0x2331 · 2331 · 9,009
+Program is not recognized as an internal or external command, operable program or batch file.
